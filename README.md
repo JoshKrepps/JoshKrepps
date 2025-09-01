@@ -13,4 +13,4 @@
 - ⚡ Fun fact: I'm colorblind
 
 
-![GitHub Logo](images/github-logo.jpg "GitHub Logo")
+![Welcome](images/Welcome.jpg "Welcome Banner")
