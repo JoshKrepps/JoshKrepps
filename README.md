@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I'm colorblind
 
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
+![GitHub Logo](images/github-logo.jpg "GitHub Logo")
