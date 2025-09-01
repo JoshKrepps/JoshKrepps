@@ -8,4 +8,3 @@
 - 📫 How to reach me: kreppsjosh@gmail.com/(540)676-7993
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm colorblind
--->
