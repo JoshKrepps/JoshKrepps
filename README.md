@@ -1,5 +1,8 @@
 ## Hi I'm Josh Krepps👋
-
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
 - 🏠 I’m currently working on my Real Estate License
 - 🏢 I’m currently learning how to be well versed in business world
 - 👨‍💻 I’m looking to collaborate on differing digital studies projects
