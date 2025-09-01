@@ -1,5 +1,6 @@
-## Hi I'm Josh Krepps👋
+## ![Welcome](images/Welcome.jpg "Welcome Banner")
 
+    Hi I'm Josh Krepps👋🏽
 
 
 
@@ -12,5 +13,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm colorblind
 
-
-![Welcome](images/Welcome.jpg "Welcome Banner")
