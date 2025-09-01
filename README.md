@@ -1,6 +1,6 @@
 ## Hi I'm Josh Krepps👋
 
-![Welcome Banner](https://img.freepik.com/free-vector/stylish-welcome-lettering-banner-opening-new-office_1017-50438.jpg")
+
 
 
 - 🏠 I’m currently working on my Real Estate License
