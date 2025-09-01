@@ -1,9 +1,7 @@
 ## Hi I'm Josh Krepps👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{JoshKrepps}/count.svg" alt="Visitor's Count" />
-</div>
+![Welcome Banner](https://img.freepik.com/free-vector/stylish-welcome-lettering-banner-opening-new-office_1017-50438.jpg")
+
 
 - 🏠 I’m currently working on my Real Estate License
 - 🏢 I’m currently learning how to be well versed in business world
