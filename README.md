@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Josh Krepps👋
 
 - 🔭 I’m currently working on my marketing degree
 - 🌱 I’m currently learning how to be well versed in business world
